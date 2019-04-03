@@ -5,6 +5,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+// git项目
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     //创建Button对象   也就是activity_main.xml里所设置的ID
     Button btn_0,btn_1,btn_2,btn_3,btn_4,btn_5,btn_6,btn_7,btn_8,btn_9,btn_pt;
